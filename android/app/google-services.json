@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "903957334646",
+    "project_id": "fitora-ec09b",
+    "storage_bucket": "fitora-ec09b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903957334646:android:302cb44c0f1610a1202d57",
+        "android_client_info": {
+          "package_name": "com.zeetech.fitora.app.fitoraa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903957334646-7p0k7tn278c7c1qi3ca5rkbqkgmsk8b4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zeetech.fitora.app.fitoraa",
+            "certificate_hash": "b1a5f379b3755eb1393e5465970ca84b1a013860"
+          }
+        },
+        {
+          "client_id": "903957334646-i2n1mgv0qs7ri5qt5qseobbkdb2bic2v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zeetech.fitora.app.fitoraa",
+            "certificate_hash": "2cddc0f09d95f8c7d8e8e88f5899af1df3face73"
+          }
+        },
+        {
+          "client_id": "903957334646-o57clke1vebqqqkfjkv82cn5d62asrab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zeetech.fitora.app.fitoraa",
+            "certificate_hash": "08b369b3cb39151bb9a295969a95a745d9c4b50d"
+          }
+        },
+        {
+          "client_id": "903957334646-bnmv2cq2fulk4vv54drsiivq63nb1orj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZxhD16P54oDVrp-0TunBmMRRe0hE_Mfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903957334646-bnmv2cq2fulk4vv54drsiivq63nb1orj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
